@@ -17,23 +17,22 @@ url: https://sobigdata.d4science.org/catalogue-sobigdata?path=/dataset/multi-tas
     Provided in the Reqs.txt file
 
 # 2. Train a Face Reconition model (Black-box) (use Train black box.ipynb)
+After you have downloaded the datasets, and have installed the required libraries & packages,
+    2.1. Open the ipynb file named Train black box.ipynb to train the initially required model
+      2.1.1 Change the required paths
+      2.1.2. Run the code
+      2.1.3 Save the model
 
-  After you have downloaded the datasets, and have installed the required libraries & packages,
-  2.1. Open the ipynb file named Train black box.ipynb to train the initially required model
-  2.1.1 Change the required paths
-  2.1.2. Run the code
-  2.1.3 Save the model
+# 3. Next run the Train AAE.ipynb file to train the AEE
+    3.1. Open the ipynb file named Train AAE.ipynb to train the AAE
+      3.1.1 Change the required paths
+      3.1.2. Run the code
+      3.1.3 Save the models (combined)
 
-  # 3. Next run the Train AAE.ipynb file to train the AEE
-  3.1. Open the ipynb file named Train AAE.ipynb to train the AAE
-  3.1.1 Change the required paths
-  3.1.2. Run the code
-  3.1.3 Save the models (combined)
-
-  # 4. Next run the Train EDIALS.ipynb file to anonymize the images
-  4.1. Open the ipynb file named EDIALS.ipynb to anonymize the images
-  4.1.1 Change the required paths
-  4.1.2. Run the code
-  4.1.3. Choose the batch size carefully (based on your system's specs)
+# 4. Next run the Train EDIALS.ipynb file to anonymize the images
+    4.1. Open the ipynb file named EDIALS.ipynb to anonymize the images
+      4.1.1 Change the required paths
+      4.1.2. Run the code
+      4.1.3. Choose the batch size carefully (based on your system's specs)
 
 
