@@ -14,8 +14,7 @@ url: https://sobigdata.d4science.org/catalogue-sobigdata?path=/dataset/multi-tas
 # To Execute the code please follow these steps
 
 # 1. Install the Required packages and libraries
-
-  Provided in the Reqs.txt file
+    Provided in the Reqs.txt file
 
 # 2. Train a Face Reconition model (Black-box) (use Train black box.ipynb)
 
