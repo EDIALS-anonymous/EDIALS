@@ -17,7 +17,8 @@ url: https://sobigdata.d4science.org/catalogue-sobigdata?path=/dataset/multi-tas
     Provided in the Reqs.txt file
 
 # 2. Train a Face Reconition model (Black-box) (use Train black box.ipynb)
-After you have downloaded the datasets, and have installed the required libraries & packages,
+    After you have downloaded the datasets, and have installed the required libraries & packages,
+    
     2.1. Open the ipynb file named Train black box.ipynb to train the initially required model
       2.1.1 Change the required paths
       2.1.2. Run the code
